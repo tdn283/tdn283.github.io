@@ -1,0 +1,14 @@
+@media (max-width: 1023px) {
+    .product__img-container{
+        order: 2;
+        display: none;
+    }
+
+    .product__buy-menu{
+        order: 1;
+    }
+
+    .product__buy-detail{
+        padding-left: 0;
+    }
+}
