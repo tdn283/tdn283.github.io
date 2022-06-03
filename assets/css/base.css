@@ -1,6 +1,10 @@
 :root{
     --white-color: #fff;
     --text-color: #000;
+
+    --header-brand-height: 40px;
+    --header-nav-height: 60px;
+    --header-slider: 60px;
 }
 
 *{
